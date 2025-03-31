@@ -62,3 +62,35 @@ This project reinforced my expertise in data-driven decision-making and showcase
 4\. View the details of the highest spend order. Which specific items were purchased?
 
 5\. View the details of the top 5 highest spend orders
+
+### Observations
+
+*   There are 32 different items in the menu.
+    
+*   The least and most expensive items on the entire menu are $5 and $19.95.
+    
+*   There are 9 Italian dishes in the menu.
+    
+*   The least and most expensive Italian items are $14.50 and $19.95.
+    
+*   The most expensive item on the menu is Italian.
+    
+*   There are 6 American items, 8 Asian items, 9 Italian and 9 Mexican items on the menu.
+    
+*   The data ranges from Jan 1, 2023 to Mar 31, 2023.
+    
+*   The total orders made in this period were 5,370.
+    
+*   Total items ordered in this period were 12,097.
+    
+*   The most number of items ordered in one order were 14 for order IDs 330, 440, 443, 1957, 2675, 3473, 4305.
+    
+*   20 orders had more than 12 items on them.
+    
+*   The least ordered item was Mexican - Chicken Tacos, ordered 123 times
+    
+*   The most ordered item was American - Hamburger, ordered 622 times.
+    
+*   Top 5 orders that spend most money were $192.15 (order ID 440), $191.05 (order ID 2075), $190.10 (order ID 1957), $189.70 (order ID 330), $185.10 (order ID 2675).
+    
+*   In the order with most money spent, the items ordered were: Chicken Parmesan, Chips & Salsa, Edamame, Eggplant Parmesan, Fettuccine Alfredo, French Fries, Hot Dog, Korean Beef Bowl, Meat Lasagna, Spaghetti, Spaghetti & Meatballs, Steak Tacos.
